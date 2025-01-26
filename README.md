@@ -46,7 +46,7 @@ cd QuestSearchUsingGRPC
 ``` bash
 cd backend
 npm install
-nodemon src\app.js
+nodemon ./src/app.js
 ```
 
 ### 3. Frontend Setup (React)
