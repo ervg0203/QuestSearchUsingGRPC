@@ -74,7 +74,7 @@ To run the entire project using Docker, follow these steps:
     
 ### 5. Setting up MongoDB
 
-- Make a MongoDB database name as questsearch and import the question into the database and then you are good to go.
+- Make a MongoDB database name as questsearch and import the questions json file into the database and then you are good to go.
 
 ### 6. Enhancements & Unique Features
 
